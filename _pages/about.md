@@ -1,10 +1,23 @@
+---
+permalink: /
+title: "Biography"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+I am a Phd student  at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/) (2021.9-2025.6). **My research interest includes computer vision, machine learning, video understanding, and multi-modal knowledge extraction and reasoning**. Under the guidance of Academician [Qionghai Dai](https://ysg.ckcest.cn/html/details/8058/index.html) from Tsinghua University and Professor [Xiangyang Xue](https://cs.fudan.edu.cn/3f/8a/c25907a278410/page.htm) from Fudan University, I have developed a deep understanding and expertise in these areas. **I am currently seeking a faculty position** where I can contribute to academic research and education.
+
+You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf). 
+
+[Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) 
+
 
  🔥 News 
 ---------------
 * 2024/08: New Paper "Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos" is accepted by IEEE TCSVT.
 
-
-  📎  Publications 
+ 📎  Publications 
 ---------------
 - **Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos**  
   **C Lai**, H Wang, W Ge, X Xue.  
@@ -36,17 +49,4 @@
 - **Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement**  
   *Y Huang, Y Sun, **C Lai**, Q Xu, X Wang, X Shen, W Ge*  
   *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*  
----
-permalink: /
-title: "Biography"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-I am a Phd student  at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/) (2021.9-2025.6). **My research interest includes computer vision, machine learning, video understanding, and multi-modal knowledge extraction and reasoning**. Under the guidance of Academician [Qionghai Dai](https://ysg.ckcest.cn/html/details/8058/index.html) from Tsinghua University and Professor [Xiangyang Xue](https://cs.fudan.edu.cn/3f/8a/c25907a278410/page.htm) from Fudan University, I have developed a deep understanding and expertise in these areas. **I am currently seeking a faculty position** where I can contribute to academic research and education.
-
-You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf). 
-
-[Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) 
-
+ 
