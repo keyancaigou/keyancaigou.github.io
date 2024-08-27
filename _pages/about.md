@@ -20,42 +20,34 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 
  📎  Publications 
 ---------------
+- **Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos**  
+  **C Lai**, H Wang, W Ge, X Xue.  
+  *IEEE Transactions on Circuits and Systems for Video Technology, 2024*  
+
 - **Infrared facial expression recognition via Gaussian-based label distribution learning in the dark illumination environment for human emotion detection**  
-  *Z Zhang, C Lai, H Liu, YF Li*  
+  *Z Zhang, **C Lai**, H Liu, YF Li*  
   *Neurocomputing, Vol. 409, pp. 341-350, 2020*  
-  [49 Citations]
+
 
 - **GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks**  
-  *S Wang, A Zhao, C Lai, Q Zhang, D Li, Y Gao, L Dong, X Wang*  
+  *S Wang, A Zhao, **C Lai**, Q Zhang, D Li, Y Gao, L Dong, X Wang*  
   *Journal of King Saud University-Computer and Information Sciences, Vol. 35(7), Article 101605, 2023*  
-  [5 Citations]
 
 - **Leveraging Smooth Deformation Augmentation for LiDAR Point Cloud Semantic Segmentation**  
-  *S Qiu, J Chen, C Lai, H Lu, X Xue, J Pu*  
+  *S Qiu, J Chen, **C Lai**, H Lu, X Xue, J Pu*  
   *IEEE Transactions on Intelligent Vehicles, 2024*  
-  [1 Citation]
 
 - **DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum**  
-  *W Zhao, S Wang, X Wang, D Li, J Wang, C Lai, X Li*  
+  *W Zhao, S Wang, X Wang, D Li, J Wang, **C Lai**, X Li*  
   *Journal of King Saud University-Computer and Information Sciences, Vol. 36(1), Article 101869, 2024*  
-  [1 Citation]
 
-- **Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement — Supplementary Material**  
-  *Y Huang, Y Sun, C Lai, Q Xu, X Wang, X Shen, W Ge*  
-  *2023*  
-  [No Citation Count Available]
-
-- **Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos**  
-  *C Lai, H Wang, W Ge, X Xue*  
-  *IEEE Transactions on Circuits and Systems for Video Technology, 2024*  
-  [No Citation Count Available]
 
 - **Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**  
-  *H Wang, C Lai, Y Sun, W Ge*  
-  *arXiv preprint arXiv:2401.10711, 2024*  
-  [No Citation Count Available]
+  *H Wang, **C Lai**, Y Sun, W Ge*  
+  *ACMMM, 2024*  
+  
 
 - **Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement**  
-  *Y Huang, Y Sun, C Lai, Q Xu, X Wang, X Shen, W Ge*  
+  *Y Huang, Y Sun, **C Lai**, Q Xu, X Wang, X Shen, W Ge*  
   *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*  
-  [No Citation Count Available]
+ 
