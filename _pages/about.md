@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a student from [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/). My research interest includes computer vision, machine learning, video understanding, and multi-modal knowledge extraction and reasoning.
+I'm a Phd student from [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/). My research interest includes computer vision, machine learning, video understanding, and multi-modal knowledge extraction and reasoning.
 
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
