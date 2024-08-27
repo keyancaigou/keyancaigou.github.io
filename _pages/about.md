@@ -6,8 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Phd student from [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/). My research interest includes computer vision, machine learning, video understanding, and multi-modal knowledge extraction and reasoning.
-
+I am a Phd student  at [School of Computer Science](https://cs.fudan.edu.cn/), [Fudan University](https://fudan.edu.cn/). My research interest includes computer vision, machine learning, video understanding, and multi-modal knowledge extraction and reasoning. Under the guidance of Academician [Qionghai Dai] (https://ysg.ckcest.cn/html/details/8058/index.html) from Tsinghua University and Professor [Xiangyang Xue](https://cs.fudan.edu.cn/3f/8a/c25907a278410/page.htm) from Fudan University, I have developed a deep understanding and expertise in these areas. I am currently seeking a faculty position where I can contribute to academic research and education
 I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
