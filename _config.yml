@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Shanghai"
 title                    : "Chenghang Lai / Personal Homepage"
-title_separator          : "-"
+title_separator          : "sjdksjd"
 name                     : &name "Chenghang Lai"
 description              : &description "personal description"
 url                      : https://keyancaigou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
