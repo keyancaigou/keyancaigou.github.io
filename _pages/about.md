@@ -17,7 +17,6 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 ---------------
 * 2024/08: New Paper "Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos" is accepted by IEEE TCSVT.
 
-
  📎  Publications 
 ---------------
 - **Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos**  
