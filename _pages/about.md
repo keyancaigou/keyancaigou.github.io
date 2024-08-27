@@ -30,14 +30,14 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 - **Weakly Supervised Gaussian Contrastive Grounding with Large Multimodal Models for Video Question Answering**  
   *H Wang, **C Lai**, Y Sun, W Ge*  
   *ACMMM, 2024*  
-
-- **Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement**  
-  *Y Huang, Y Sun, **C Lai**, Q Xu, X Wang, X Shen, W Ge*  
-  *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*
   
 - **DADL: Double Asymmetric Distribution Learning for head pose estimation in wisdom museum**  
   *W Zhao, S Wang, X Wang, D Li, J Wang, **C Lai**, X Li*  
   *Journal of King Saud University-Computer and Information Sciences, Vol. 36(1), Article 101869, 2024*
+  
+- **Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement**  
+  *Y Huang, Y Sun, **C Lai**, Q Xu, X Wang, X Shen, W Ge*  
+  *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*
 
 - **GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks**  
   *S Wang, A Zhao, **C Lai**, Q Zhang, D Li, Y Gao, L Dong, X Wang*  
