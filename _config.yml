@@ -27,7 +27,7 @@ author:
   bio              : "Fudan University"
   location         : "Shanghai"
   employer         :
-  uri              : https://keyancaigou.github.io
+  uri              : # https://keyancaigou.github.io
   email            : "chlai21@m.fudan.edu.cn"  
 
   # Academic websites
