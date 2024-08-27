@@ -20,7 +20,7 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
  📎  Publications 
 ---------------
 - **Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos**  
-  **C Lai**, H Wang, W Ge, X Xue.  
+  **C Lai**, H Wang, W Ge, X Xue  
   *IEEE Transactions on Circuits and Systems for Video Technology, 2024*  
 
 - **Leveraging Smooth Deformation Augmentation for LiDAR Point Cloud Semantic Segmentation**  
