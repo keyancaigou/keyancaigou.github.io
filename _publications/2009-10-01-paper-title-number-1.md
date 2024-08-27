@@ -7,7 +7,7 @@ excerpt: 'This paper focuses on leveraging object-centric cross-modal knowledge 
 date: 2024-08-16
 venue: 'IEEE Transactions on Circuits and Systems for Video Technology'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
+paperurl: 'http://keyancaigou.github.io/files/paper1.pdf'
 citation: 'C Lai, H Wang, W Ge, X Xue. (2024). &quot;Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos.&quot; <i>IEEE Transactions on Circuits and Systems for Video Technology</i>.'
 ---
 
