@@ -12,10 +12,3 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 
 [Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) 
 
-
- 🔥 News 
----------------
-* 2024/08: New Paper "Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos" is accepted by IEEE TCSVT.
-
-
- 
