@@ -15,4 +15,4 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 
 🔥 News 
 
-\dot 2024.02
+ : 2024.08 
