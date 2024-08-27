@@ -39,11 +39,11 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
   *W Zhao, S Wang, X Wang, D Li, J Wang, **C Lai**, X Li*  
   *Journal of King Saud University-Computer and Information Sciences, Vol. 36(1), Article 101869, 2024*
 
-  - **GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks**  
+- **GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks**  
   *S Wang, A Zhao, **C Lai**, Q Zhang, D Li, Y Gao, L Dong, X Wang*  
   *Journal of King Saud University-Computer and Information Sciences, Vol. 35(7), Article 101605, 2023*  
 
-  - **Infrared facial expression recognition via Gaussian-based label distribution learning in the dark illumination environment for human emotion detection**  
+- **Infrared facial expression recognition via Gaussian-based label distribution learning in the dark illumination environment for human emotion detection**  
   *Z Zhang, **C Lai**, H Liu, YF Li*  
   *Neurocomputing, Vol. 409, pp. 341-350, 2020*  
 
