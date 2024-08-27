@@ -13,4 +13,5 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 [Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) 
 
 
-🔥 News
+🔥 News 
+2024.02
