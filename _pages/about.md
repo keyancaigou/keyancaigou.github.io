@@ -15,6 +15,9 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 
  🔥 News 
 ===============
--2024.08 
+- First item 2024. 08
+- Second item
+- Third item
+- Fourth item
 
 
