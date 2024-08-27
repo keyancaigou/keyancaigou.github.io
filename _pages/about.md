@@ -10,4 +10,4 @@ I am a Phd student  at [School of Computer Science](https://cs.fudan.edu.cn/), [
 
 You can find my CV here: [XX's Curriculum Vitae](../images/lchjl.pdf).
 
-[Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+[Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) 
