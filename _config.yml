@@ -21,14 +21,14 @@ repository               : "keyancaigou/keyancaigou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "lch.jpg"
+  name             : "Chenghang Lai"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "--"
+  location         : "Shanghai"
+  employer         : "Fudan University"
+  uri              : https://keyancaigou.github.io
+  email            : "chlai21@m.fudan.edu.cn"  
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
