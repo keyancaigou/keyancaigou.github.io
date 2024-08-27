@@ -23,15 +23,6 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
   **C Lai**, H Wang, W Ge, X Xue.  
   *IEEE Transactions on Circuits and Systems for Video Technology, 2024*  
 
-- **Infrared facial expression recognition via Gaussian-based label distribution learning in the dark illumination environment for human emotion detection**  
-  *Z Zhang, **C Lai**, H Liu, YF Li*  
-  *Neurocomputing, Vol. 409, pp. 341-350, 2020*  
-
-
-- **GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks**  
-  *S Wang, A Zhao, **C Lai**, Q Zhang, D Li, Y Gao, L Dong, X Wang*  
-  *Journal of King Saud University-Computer and Information Sciences, Vol. 35(7), Article 101605, 2023*  
-
 - **Leveraging Smooth Deformation Augmentation for LiDAR Point Cloud Semantic Segmentation**  
   *S Qiu, J Chen, **C Lai**, H Lu, X Xue, J Pu*  
   *IEEE Transactions on Intelligent Vehicles, 2024*  
@@ -48,5 +39,14 @@ You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf).
 
 - **Weakly Supervised Learning of Semantic Correspondence through Cascaded Online Correspondence Refinement**  
   *Y Huang, Y Sun, **C Lai**, Q Xu, X Wang, X Shen, W Ge*  
-  *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*  
+  *Proceedings of the IEEE/CVF International Conference on Computer Vision, 2023*
+
+  - **GCANet: Geometry cues-aware facial expression recognition based on graph convolutional networks**  
+  *S Wang, A Zhao, **C Lai**, Q Zhang, D Li, Y Gao, L Dong, X Wang*  
+  *Journal of King Saud University-Computer and Information Sciences, Vol. 35(7), Article 101605, 2023*  
+
+  - **Infrared facial expression recognition via Gaussian-based label distribution learning in the dark illumination environment for human emotion detection**  
+  *Z Zhang, **C Lai**, H Liu, YF Li*  
+  *Neurocomputing, Vol. 409, pp. 341-350, 2020*  
+
  
