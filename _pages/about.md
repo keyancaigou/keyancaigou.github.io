@@ -11,3 +11,6 @@ I am a Phd student  at [School of Computer Science](https://cs.fudan.edu.cn/), [
 You can find my CV here: [Chenghang Lai's CV](../images/lchjl.pdf). 
 
 [Email](chlai21@m.fudan.edu.cn) / [Github](https://github.com/keyancaigou) / [Wechat](../images/wechat.jpg) 
+
+
+🔥 News
