@@ -24,6 +24,10 @@ You can find my CV here: [Chenghang Lai's CV](../images/LCH简历.pdf).
   **C Lai**, H Wang, W Ge, X Xue  
   *IEEE Transactions on Circuits and Systems for Video Technology, 2024*  
 
+- **MKER: Multi-Modal Knowledge Extraction and Reasoning for Future Event Prediction**  
+  **C Lai**, S Qiu  
+  *Complex \& Intelligent Systems, 2024* 
+
 - **Leveraging Smooth Deformation Augmentation for LiDAR Point Cloud Semantic Segmentation**  
   *S Qiu, J Chen, **C Lai**, H Lu, X Xue, J Pu*  
   *IEEE Transactions on Intelligent Vehicles, 2024*  
