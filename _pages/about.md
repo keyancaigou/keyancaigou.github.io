@@ -15,6 +15,7 @@ You can find my CV here: [Chenghang Lai's CV](../images/LCH简历.pdf).
 
  🔥 News 
 ---------------
+* 2024/10: New Paper "MKER: Multi-Modal Knowledge Extraction and Reasoning for Future Event Prediction" is accepted by Complex \& Intelligent Systems.
 * 2024/08: New Paper "Object-Centric Cross-Modal Knowledge Reasoning for Future Event Prediction in Videos" is accepted by IEEE TCSVT.
 
  📎  Publications 
